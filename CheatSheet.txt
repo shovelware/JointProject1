@@ -1,0 +1,1 @@
+One thing I didn't want to mention in the help file in case players abused it, pressing enter will enable Debug mode, which includes powerups (Del, Ins, Home, End, PgUp, PgDwn) Enemy spawning (0, 1), Hostage Spawning (Num 0, Num 1, Num 2), health testing (Num 7, 8 and 9) and lives (Num *, Num /).
